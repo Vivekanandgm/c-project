@@ -1,0 +1,9 @@
+ SSH is used to login from server1 to server2 without using Password 
+ Password less conection is used to login from server1 to server2 without using .pem key or password 
+ total no of arguments passed = $# 
+ list of all arguments passwd = $*
+ pid of the running process = $$ 
+ pid of the lst command went into background = $!  
+ to check the status of last executed command = $?
+ script name = $0
+ the arguments wil be stored in script in array format = $@

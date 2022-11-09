@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x. 3 ec2-user ec2-user  16 Sep 12 13:19 d
+-rw-rw-r--. 1 ec2-user ec2-user 617 Sep 12 13:31 f
+-rw-rw-r--. 1 ec2-user ec2-user 750 Sep 12 13:34 log
+drwxrwxr-x. 2 ec2-user ec2-user 195 Sep 13 14:01 scripts
