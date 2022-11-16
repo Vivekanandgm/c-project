@@ -1,9 +1,0 @@
-#!/bin/bash
-
-sum=0
-
-for i in 2 5 8 11
-do
-   sum=`expr $sum + $i`
-done
-echo " Sum is $sum "
